@@ -1,0 +1,33 @@
+
+.link {
+    box-sizing: border-box;
+    background-color: rgba(38, 0, 255, 0.164);
+    padding: 20px
+    margin: 10px;
+    text-align: center;
+}
+#recepti {
+    box-sizing: border-box;
+    background-color: yellow;
+}
+
+#header {
+    box-sizing: border-box;
+    background-color:rgb(0, 0, 0);
+    padding: 20px;
+    margin: 10px;
+color: red;
+text-align: center;
+}
+
+.paragraph {
+    background-color: red;
+    box-sizing: border-box;
+    color: black;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+
+
